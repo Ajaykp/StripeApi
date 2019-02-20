@@ -1,6 +1,9 @@
 Stripe SDK for Force.com
 ========================================
-
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 [Stripe](http://stripe.com) is a fantastic developer-friendly payment processing platform. This SDK was originally developed by Cirruspath in 2012. Please send comments, pull requests, and questions here on github.
 
 Stripe API Documentation
